@@ -1,0 +1,15 @@
+R 1300 1000
+NO ./textures/1.xpm
+SO ./textures/2.xpm
+WE ./textures/3.xpm
+EA ./textures/4.xpm
+
+S ./textures/moemon.xpm
+F 105,85,124
+C 63,42,85
+
+11111111
+10000001
+1001 101
+1001 101
+11111111
